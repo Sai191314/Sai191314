@@ -4,6 +4,8 @@ Hi, I'm Sai Adkar! 👋
 
 💫 About Me
 
+---
+
 I'm a BCA student and aspiring developer interested in AI, software development, and Japanese language learning.
 
 🔭 Currently Working On
@@ -12,9 +14,13 @@ I'm a BCA student and aspiring developer interested in AI, software development,
 - 🤖 Exploring AI-powered applications.
 - 💻 Improving my development and problem-solving skills.
 
+---
+
 🛠️ Tools & Technologies
 
 Python • C++ • SQL • HTML • CSS • JavaScript • Git • GitHub • Streamlit
+
+---
 
 🌱 A Bit More About Me
 
