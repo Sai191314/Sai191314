@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**Sai191314/Sai191314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sai Adkar! 👋
 
-Here are some ideas to get you started:
+💫 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a BCA student and aspiring developer interested in AI, software development, and Japanese language learning.
+
+🔭 Currently Working On
+
+- 🌸 SaiKoto – A Japanese learning platform.
+- 🤖 Exploring AI-powered applications.
+- 💻 Improving my development and problem-solving skills.
+
+🛠️ Tools & Technologies
+
+Python • C++ • SQL • HTML • CSS • JavaScript • Git • GitHub • Streamlit
+
+📫 Connect With Me
+
+- 💼 LinkedIn: [https://www.linkedin.com/in/sai-adkar/]
+- 📸 Instagram: [Your Instagram URL]
+- 🐙 GitHub: [Your GitHub URL]
+
+---
+
+Building, experimenting, and learning something new every day. 🚀
